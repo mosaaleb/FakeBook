@@ -22,7 +22,7 @@ gem 'jquery-rails'
 gem 'omniauth-facebook'
 gem 'omniauth-rails_csrf_protection'
 gem 'pg', '>= 0.18', '< 2.0'
-gem 'puma', '~> 3.12'
+gem 'puma', '~> 4.3'
 gem 'rails', '~> 5.2.3'
 gem 'sass-rails', '~> 5.0' # Use Uglifier as compressor for JavaScript assets
 gem 'turbolinks', '~> 5'
